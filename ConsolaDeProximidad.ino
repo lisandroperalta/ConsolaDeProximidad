@@ -1,5 +1,9 @@
+/*
+Consola DMX por proximidad a partir de resitencias LDR.
 
+Lisandro.Peralta para Mate
 
+*/
 
 /* SENSOR 01*/
 const int LDRPin1 = A1;  //Pin del LDR
